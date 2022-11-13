@@ -9,4 +9,4 @@ set fish_greeting
 alias ls="exa -l --octal-permissions --group-directories-first"
 
 starship init fish | source
-colorscript -e 15 
+colorscript -e pinguco
